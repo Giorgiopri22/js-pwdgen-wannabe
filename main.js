@@ -4,4 +4,4 @@ let colorePreferito = prompt("quale è il tuo colore preferito?")
 
 
 document.getElementById('password').value = ` ${nome}${cognome}${colorePreferito}21 `;
-console.log("bella mattia");
+console.log("bella boolean");
